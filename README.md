@@ -1,4 +1,6 @@
    # Joc matrice leduri
+   
+Link to game example: https://youtu.be/fqTSLBf81fY
 
 a. Jocul Brick Breaker
 b. 1. Va apasa pe orice buton pentru inceperea jocului (instructiune afisata pe LCD); 2. Finalul va fi cu afisajul scorului si optiune de replay; 3. Va avea vieti si scor; 4. Este usor de jucat pentru oricine; 5. Destul de greu de terminat.
